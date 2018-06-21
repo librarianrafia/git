@@ -8,8 +8,9 @@ DHRI workshop on Command Line: Session on the command line, a means of interacti
 DHRI workshop on Git: Session on Git, version control software for tracking project files, backing up data, and collaborating with others. Includes discussion of GitHub.(https://github.com/DHRI-Curriculum/git)
 
 
+These notes assume you will have VS Code and Git installed on your local machine. 
 
-To complete this workshop, you will need to have VS Code and Git installed on your local machine. If you have not installed them already, follow [this link to instructions for VS Code](https://github.com/DHRI-Curriculum/install/blob/master/sections/vscode.md), and [this link to instructions for Git](https://github.com/DHRI-Curriculum/install/blob/master/sections/git.md).
+If you have not installed them already, follow [this link to instructions for VS Code](https://github.com/DHRI-Curriculum/install/blob/master/sections/vscode.md), and [this link to instructions for Git](https://github.com/DHRI-Curriculum/install/blob/master/sections/git.md).
 
 [Get Started >>>](sections/concept.md)  
 [Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/git.md#git)  
