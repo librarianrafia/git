@@ -1,8 +1,13 @@
-# Introduction to Git and GitHub
+# Collaboration in Github
 
-Git is version control software used to track the state of files associated with a project. Users can take snapshots of files, travel through the history of a project, collaborate transparently with others, and easily keep compatible data in many locations. Combined with GitHub, a cloud service, Git also becomes a way of finding and publishing text, including writing and code.
+These are my notes after taking the following workshops:
 
-In this session, we'll learn what makes Git such a powerful tool for both collaborative and individual projects. We will share a conceptual overview of Git and GitHub, explore fundamental concepts such as committing and pushing, and explore practical applications of GitHub for writing and coding. This session will show how to use Git and GitHub for a variety of digital undertakings, including collaborating with others, finding code for use in your projects, and sharing your work publicly. This session covers initializing Git repositories, committing changes, pushing to GitHub, and cloning repositories to your local machine.
+DHRI workshop on Command Line: Session on the command line, a means of interacting with your computer programmatically through text.
+(https://github.com/DHRI-Curriculum/command-line/)
+
+DHRI workshop on Git: Session on Git, version control software for tracking project files, backing up data, and collaborating with others. Includes discussion of GitHub.(https://github.com/DHRI-Curriculum/git)
+
+
 
 To complete this workshop, you will need to have VS Code and Git installed on your local machine. If you have not installed them already, follow [this link to instructions for VS Code](https://github.com/DHRI-Curriculum/install/blob/master/sections/vscode.md), and [this link to instructions for Git](https://github.com/DHRI-Curriculum/install/blob/master/sections/git.md).
 
