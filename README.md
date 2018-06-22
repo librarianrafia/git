@@ -16,7 +16,8 @@ If you have not installed them already, follow [this link to instructions for VS
 [Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/git.md#git)  
 
 -----
-[Stuff to remember when you start collaberting in repositories on Github and you are not used to it](sections/remember.md)]
+[Stuff to remember when you start collaberting in repositories on Github and you are not used to it](sections/remember.md)
+
 [What are Git, GitHub and Markdown?](sections/concept.md)  
 [What You Can Do with Git and GitHub](sections/examples.md)  
 [Review of the Command Line](sections/commandline.md)  
